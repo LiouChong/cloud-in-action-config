@@ -1,62 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03251f3d-daea-4112-a6cd-a6c32734f9e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SpringCloudProject/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringCloudProject/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringCloudProject/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringCloudProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cloudtest/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exceptiondemo/src/main/java/com/example/demo/advice/ExceptionAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exceptiondemo/src/main/java/com/example/demo/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exceptiondemo/src/main/java/com/example/demo/exception/BusinessException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jwtdemo/authorserver/src/main/java/com/antiy/authorserver/config/advice/ExceptionAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jwtdemo/authorserver/src/main/java/com/antiy/authorserver/config/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jwtdemo/authorserver/src/main/java/com/antiy/authorserver/config/exception/BusinessException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../news/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nioDemo/src/com/company/deldemo/SocketClientNio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nioDemo/src/com/company/deldemo/SocketServerNIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nioDemo/src/com/company/filechannel/FileChannelDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oauthdemo/src/main/java/com/antiy/oauthdemo/config/MyUserDetailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythondemo/spider_cnnvd_to_vnbt_cnnvd_auto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../quartz-demo/src/main/java/com/antiy/quartzdemo/morejobdemo/DemoJobOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../quartz-demo/src/main/java/com/antiy/quartzdemo/morejobdemo/DemoJobTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../quartz-demo/src/main/java/com/antiy/quartzdemo/morejobdemo/QuartzUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../quartz-demo/src/main/java/com/antiy/quartzdemo/singledemo/Hello2Job.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../quartz-demo/src/main/java/com/antiy/quartzdemo/singledemo/HelloJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../quartz-demo/src/main/java/com/antiy/quartzdemo/singledemo/SimpleDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../register/src/main/java/com/work/register/registerdmeo/CheckCodeServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../register/src/main/java/com/work/register/registerdmeo/RegiesterServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threadstudy/src/main/java/com/antiy/threadstudy/ConcurrentHashMapDemo/ConcurrentHashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threadstudy/src/main/java/com/antiy/threadstudy/LockSupport/LockSupportTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threadstudy/src/main/java/com/antiy/threadstudy/ReadWriteLock/ReadWriteLockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threadstudy/src/main/java/com/antiy/threadstudy/ReadWriteLock/ReetrantReadWriteLockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threadstudy/src/main/java/com/antiy/threadstudy/aqs/AQSDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threadstudy/src/main/java/com/antiy/threadstudy/aqs/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threadstudy/src/main/java/com/antiy/threadstudy/cyclicBarrier/CyclicBarrierDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threadstudy/src/main/java/com/antiy/threadstudy/exceptiondemo/ExceptionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threadstudy/src/main/java/com/antiy/threadstudy/threadpool/ThreadPoolExecutorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threadstudy/src/main/java/com/antiy/threadstudy/ygh/ConditionT2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nioDemo/src/com/company/datagram/DatagramChannelDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nioDemo/src/com/company/datagram/DatagramChannelDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nioDemo/src/com/company/select/ServerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nioDemo/src/com/company/select/ServerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oauthdemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../oauthdemo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oauthdemo/src/main/java/com/antiy/oauthdemo/config/AuthorizationServerConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oauthdemo/src/main/java/com/antiy/oauthdemo/handle/MyUserDetailService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oauthdemo/src/main/java/com/antiy/oauthdemo/pojo/MyUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oauthdemo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../oauthdemo/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../securitystudy/src/main/java/com/company/securitystudy/config/BrowserSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../securitystudy/src/main/java/com/company/securitystudy/config/BrowserSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../securitystudy/src/main/java/com/company/securitystudy/config/MyAuthenticationSuccessHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../securitystudy/src/main/java/com/company/securitystudy/config/MyUserDetailService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../securitystudy/src/main/java/com/company/securitystudy/controller/BrowserSecurityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../securitystudy/src/main/java/com/company/securitystudy/controller/BrowserSecurityController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../securitystudy/src/main/java/com/company/securitystudy/controller/TestController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../securitystudy/src/main/java/com/company/securitystudy/controller/ValidateController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../securitystudy/src/main/java/com/company/securitystudy/controller/ValidateController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../securitystudy/src/main/java/com/company/securitystudy/filter/ValidateCodeFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../securitystudy/src/main/java/com/company/securitystudy/filter/ValidateCodeFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../securitystudy/src/main/java/com/company/securitystudy/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../securitystudy/src/main/java/com/company/securitystudy/pojo/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../securitystudy/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../securitystudy/src/main/resources/application.yml" afterDir="false" />
-    </list>
+    <list default="true" id="03251f3d-daea-4112-a6cd-a6c32734f9e4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,6 +123,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572847420817</updated>
       <workItem from="1572847423512" duration="2488000" />
+      <workItem from="1572852709131" duration="137000" />
     </task>
     <task id="LOCAL-00001" summary="feat:新增配置文件">
       <created>1572847580697</created>
@@ -186,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572847580697</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat:配置文件加密">
+      <created>1572852798432</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572852798432</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,7 +150,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -205,6 +160,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat:新增配置文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat:新增配置文件" />
+    <MESSAGE value="feat:配置文件加密" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:配置文件加密" />
   </component>
 </project>
