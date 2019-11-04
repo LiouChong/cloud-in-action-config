@@ -124,6 +124,7 @@
       <updated>1572847420817</updated>
       <workItem from="1572847423512" duration="2488000" />
       <workItem from="1572852709131" duration="137000" />
+      <workItem from="1572853715765" duration="253000" />
     </task>
     <task id="LOCAL-00001" summary="feat:新增配置文件">
       <created>1572847580697</created>
@@ -139,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572852798432</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="reactor:测试配置通知">
+      <created>1572853820669</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1572853820669</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +169,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat:新增配置文件" />
     <MESSAGE value="feat:配置文件加密" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat:配置文件加密" />
+    <MESSAGE value="reactor:测试配置通知" />
+    <option name="LAST_COMMIT_MESSAGE" value="reactor:测试配置通知" />
   </component>
 </project>
