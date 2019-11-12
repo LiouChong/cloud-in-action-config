@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03251f3d-daea-4112-a6cd-a6c32734f9e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/licensingservice/licensingservice-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/licensingservice/licensingservice-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/licensingservice/licensingservice.yml" beforeDir="false" afterPath="$PROJECT_DIR$/licensingservice/licensingservice.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -142,7 +137,7 @@
       <workItem from="1573110042660" duration="4256000" />
       <workItem from="1573184496462" duration="838000" />
       <workItem from="1573450377687" duration="1206000" />
-      <workItem from="1573543727969" duration="1375000" />
+      <workItem from="1573543727969" duration="2133000" />
     </task>
     <task id="LOCAL-00001" summary="feat:新增配置文件">
       <created>1572847580697</created>
@@ -235,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573544825004</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="reactor:增加Zuul路由规则">
+      <created>1573545234387</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1573545234387</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
