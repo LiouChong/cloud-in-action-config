@@ -3,5 +3,9 @@ zuul.prefix: /api
 zuul.routes.organizationservice: /organization/**
 zuul.routes.licensingservice: /licensing/**
 zuul.routes.specialroutesservice: /specialroutesservice/**
+zuul.host.socket-timeout-millis: 60000
+zuul.host.connect-timeout-millis: 10000
 hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds: 1000000
 licensingservice.ribbon.ReadTimeout: 100000
+organizationservice.ribbon.ReadTimeout: 100000
+specialroutesservice.ribbon.ReadTimeout: 100000
