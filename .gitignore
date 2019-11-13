@@ -7,3 +7,19 @@
 *.iml
 out
 gen
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+/node_modules/
+/package-lock.json
+
+
+/logs/
