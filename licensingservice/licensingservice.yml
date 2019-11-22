@@ -12,6 +12,5 @@ spring.jpa.properties.hibernate.dialect: "org.hibernate.dialect.MySQL5InnoDBDial
 test: "license"
 redis.server: "localhost"
 redis.port: "6379"
-kafka.server: "localhost"
-kafka.port: "9092"
+kafka.server: "localhost:9092"
 #signing.key: "345345fsdfsf5345"
